@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\C#\\OláMundo\\OláMundo.csproj": {}
+    "D:\\Dev\\C#\\C#.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\C#\\OláMundo\\OláMundo.csproj": {
+    "D:\\Dev\\C#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\C#\\OláMundo\\OláMundo.csproj",
-        "projectName": "OláMundo",
-        "projectPath": "D:\\Dev\\C#\\OláMundo\\OláMundo.csproj",
+        "projectUniqueName": "D:\\Dev\\C#\\C#.csproj",
+        "projectName": "C#",
+        "projectPath": "D:\\Dev\\C#\\C#.csproj",
         "packagesPath": "C:\\Users\\allan\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\C#\\OláMundo\\obj\\",
+        "outputPath": "D:\\Dev\\C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+D:\Dev\C#\OláMundo\bin\Debug\net6.0\OláMundo.exe
+D:\Dev\C#\OláMundo\bin\Debug\net6.0\OláMundo.deps.json
+D:\Dev\C#\OláMundo\bin\Debug\net6.0\OláMundo.runtimeconfig.json
+D:\Dev\C#\OláMundo\bin\Debug\net6.0\OláMundo.dll
+D:\Dev\C#\OláMundo\bin\Debug\net6.0\OláMundo.pdb
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.csproj.AssemblyReference.cache
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.AssemblyInfoInputs.cache
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.AssemblyInfo.cs
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.csproj.CoreCompileInputs.cache
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.dll
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\refint\OláMundo.dll
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.pdb
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\OláMundo.genruntimeconfig.cache
+D:\Dev\C#\OláMundo\obj\Debug\net6.0\ref\OláMundo.dll
